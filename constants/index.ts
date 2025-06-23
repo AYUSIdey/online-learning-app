@@ -53,6 +53,7 @@ export const subjects = [
     "Programming Language Python",
     "Programming Language C++",
     "Programming Language Java",
+    "Coding",
 ];
 
 export const subjectsColors = {
@@ -62,6 +63,8 @@ export const subjectsColors = {
   // coding: "#FFC8E4",
   // history: "#FFECC8",
   // economics: "#C8FFDF",
+
+     "Coding": "#FFC8E4",
     "Analog and Digital Electronics": "#E5D0FF",
     "Data Structure and Algorithm": "#FFDA6E",
     "Computer Organisation": "#BDE7FF",

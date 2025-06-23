@@ -16,6 +16,7 @@ enum Subject {
   // finance = "finance",
   // business = "business",
 
+  Coding = "Coding",
   AnalogAndDigitalElectronics = "Analog and Digital Electronics",
   DataStructureAndAlgorithm = "Data Structure and Algorithm",
   ComputerOrganisation = "Computer Organisation",
