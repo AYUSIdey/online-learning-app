@@ -60,7 +60,7 @@ enum Subject {
   SoftSkillsAndInterpersonalCommunication = "Soft Skills and Interpersonal Communication",
   EcommerceAndERP = "Ecommerce and ERP",
   MicroElectronicsAndVLSIDesign = "Micro-electronics and VLSI Design",
-  EconomicPolicieInIndia = "Economic Policie in India",
+  EconomicPoliciesInIndia = "Economic Policies in India",
   ProgrammingLanguageC = "Programming Language C",
   ProgrammingLanguagePython = "Programming Language Python",
   ProgrammingLanguageCpp = "Programming Language C++",

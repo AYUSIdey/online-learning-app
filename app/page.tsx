@@ -16,7 +16,7 @@ const Page = () => {
                 topic = "List and Tuples"
                 subject = "Programming Language Python"
                 duration = {45}
-                colour ="#aada6e"
+                color ="#aada6e"
             />
             <CompanionCard
                 id = "456"
@@ -24,7 +24,7 @@ const Page = () => {
                 topic = "Process Table and Control Block"
                 subject = "Operating System"
                 duration = {20}
-                colour ="#fada6e"
+                color ="#fada6e"
             />
             <CompanionCard
                 id = "789"
@@ -32,7 +32,7 @@ const Page = () => {
                 topic = "Functional Dependency"
                 subject = "Database Management System"
                 duration = {45}
-                colour ="#jada6e"
+                color ="#jada6e"
             />
         </section>
 
