@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="649f9203-9a0b-49b7-b9fe-bf7850d973ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/my-journey/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/my-journey/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CompanionCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionCard.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CompanionsList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CompanionsList.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/actions/companion.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/companion.actions.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +85,7 @@
       <workItem from="1750647224184" duration="2943000" />
       <workItem from="1750652776597" duration="10550000" />
       <workItem from="1750688626290" duration="8228000" />
-      <workItem from="1750761869838" duration="17517000" />
+      <workItem from="1750761869838" duration="18814000" />
     </task>
     <servers />
   </component>
