@@ -4,7 +4,6 @@ import {redirect} from "next/navigation";
 import {getSubjectColor} from "@/lib/utils";
 import Image from "next/image";
 import CompanionComponent from "@/components/CompanionComponent";
-// import CompanionComponent from "@/components/CompanionComponent";
 
 interface CompanionSessionPageProps {
     params: Promise<{ id: string}>;

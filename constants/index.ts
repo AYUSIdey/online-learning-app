@@ -1,10 +1,5 @@
 export const subjects = [
-  // "maths",
-  // "language",
-  // "science",
-  // "history",
-  // "coding",
-  // "economics",
+
     "Analog and Digital Electronics",
     "Data Structure and Algorithm",
     "Computer Organisation",
@@ -57,12 +52,6 @@ export const subjects = [
 ];
 
 export const subjectsColors = {
-  // science: "#E5D0FF",
-  // maths: "#FFDA6E",
-  // language: "#BDE7FF",
-  // coding: "#FFC8E4",
-  // history: "#FFECC8",
-  // economics: "#C8FFDF",
 
      Coding: "#FFC8E4",
     "Analog and Digital Electronics": "#E5D0FF",
